@@ -1,4 +1,6 @@
 # First-Repo
-Hoy es miércoles 28 de octubre
-Mañana es jueves
-VIERNESSSS
+Mi primer commit!
+Adiós
+Este es mi segundo commit
+este es mi tercer commit
+Es mi último commit
