@@ -1,27 +1,16 @@
-## Descripción
+# PULL REQUEST
 
-<!-- Resume qué cambia y por qué. -->
+Si has llegado hasta aquí es que ya estás preparado para hacer tu PR:
 
-## Cambios realizados
+Antes de continuar... asegúrate de lo siguiente:
 
-<!-- Enumera los cambios principales. -->
+Pon una `x` en las cajas siguientes para asegurar que has seguido el proceso:
 
-## Issue relacionado
+- [ ] He probado mi código y funciona en local
+- [ ] He validado que mi código es correcto a niveles de formato
+- [ ] Me he asegurado de no haber comiteado o filtrado ninguna contraseña
+- [ ] No he copiado mi código porque soy una persona muy responsable :-)
 
-<!-- Indica el issue relacionado, si existe. -->
+## Opcional:
 
-## Tipo de cambio
-
-- [ ] Corrección de un error
-- [ ] Nueva funcionalidad
-- [ ] Cambio que puede afectar funcionalidades existentes
-- [ ] Documentación
-- [ ] Otro:
-
-## Checklist
-
-- [ ] He revisado mis cambios antes de abrir la Pull Request.
-- [ ] He probado los cambios y las pruebas necesarias pasan.
-- [ ] He actualizado la documentación, si era necesario.
-- [ ] No he incluido secretos ni datos sensibles.
-- [ ] Esta Pull Request está lista para revisión.
+Pega una meme que exprese como te has sentido durante tu trabajo, no es obligatorio pero es divertido :-P
